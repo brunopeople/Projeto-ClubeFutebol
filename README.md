@@ -9,6 +9,7 @@
     <li>Acessar o prompt ou o prompt do Node.js</li>
     <li>Acessar o diretório do projeto</li>
     <li> Digitar o comando php -S localhost:8000 para subir o servidor local
+    <li> Abrir o Servidor do banco de dados e rodar o arquivo para gerar as functions e querys.
 </ul>
   
 
